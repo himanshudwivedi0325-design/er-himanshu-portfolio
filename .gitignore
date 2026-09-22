@@ -1,0 +1,14 @@
+# Ignore backend credentials & deployment scripts
+admin/
+config/
+contact.php
+debug_network.py
+
+deploy*.py
+test*.py
+export_static.py
+*.sql
+remote_*.txt
+brevo_log*.txt
+uploads/brevo_log.txt
+.vscode/

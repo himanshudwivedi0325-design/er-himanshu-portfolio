@@ -1,0 +1,16 @@
+# Er. Himanshu Dwivedi — Official Developer Profile
+
+> Full Stack Developer & Diploma in Computer Science Engineering student (2024–2027) from Uttar Pradesh, India.
+
+## Summary
+- Full Name: Er. Himanshu Dwivedi
+- Also Known As: Himanshu Dwivedi, Engineer Himanshu Dwivedi, Er Himanshu
+- Profession: Full Stack Web Developer & Software Engineer
+- Core Projects:
+  - PrepWithHD: Online education & resource platform for polytechnic diploma students.
+  - Progress Typing Test: Interactive bilingual typing performance application.
+  - Personal Portfolio: Modern dynamic portfolio with PHP and MySQL administration.
+- Technical Stack: PHP, MySQL, JavaScript (ES6+), Bootstrap, HTML5, CSS3, Database Administration.
+- Website: http://himanshuportfolio.site.je/
+- Profiles: LinkedIn (himanshu-webdev), Instagram (himanshu__dwivedi_214)
+- Bio: Er. Himanshu Dwivedi is an Indian computer science engineering student and full-stack developer based in Uttar Pradesh. He is the founder of the student resource platform PrepWithHD and creator of Progress Typing Test.

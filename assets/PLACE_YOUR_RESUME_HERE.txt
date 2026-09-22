@@ -1,0 +1,6 @@
+Hi Himanshu!
+
+Please place your professional resume PDF in this folder and rename it to:
+"resume.pdf"
+
+Once you do that, the "Download CV" button on your portfolio website will work perfectly and download your resume!
