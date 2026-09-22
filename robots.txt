@@ -17,4 +17,4 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
-Sitemap: https://erhimanshudwivedi.github.io/sitemap.xml
+Sitemap: https://himanshudwivedi0325-design.github.io/er-himanshu-portfolio/sitemap.xml
