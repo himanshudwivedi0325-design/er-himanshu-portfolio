@@ -30,7 +30,11 @@
     />
     <meta property="og:image" content="https://himanshudwivedi0325-design.github.io/er-himanshu-portfolio/assets/himanshu.jpg" />
     <meta property="og:url" content="https://himanshudwivedi0325-design.github.io/er-himanshu-portfolio/" />
-    <meta property="og:site_name" content="Er. Himanshu Dwivedi Portfolio" />
+    <meta property="og:site_name" content="Er. Himanshu Dwivedi" />
+    <meta name="application-name" content="Er. Himanshu Dwivedi" />
+    <meta name="apple-mobile-web-app-title" content="Er. Himanshu Dwivedi" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
@@ -38,147 +42,15 @@
     <meta name="twitter:description" content="Official profile and portfolio of Er. Himanshu Dwivedi based in Gonda, Uttar Pradesh. Creator of HDTalk, builder of PrepWithHD." />
     <meta name="twitter:image" content="https://himanshudwivedi0325-design.github.io/er-himanshu-portfolio/assets/himanshu.jpg" />
 
-    <!-- Favicon -->
-    <link
-      rel="icon"
-      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='24' fill='%2309090b'/%3E%3Ctext x='50' y='62' text-anchor='middle' font-family='Arial' font-size='46' font-weight='800' fill='%23f59e0b'%3EHD%3C/text%3E%3C/svg%3E"
-    />
-
-    <!-- SEO & GEO (AI Discovery Knowledge Graph) Schema -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@graph": [
-        {
-          "@type": "ProfilePage",
-          "@id": "https://himanshudwivedi0325-design.github.io/er-himanshu-portfolio/#profilepage",
-          "url": "https://himanshudwivedi0325-design.github.io/er-himanshu-portfolio/",
-          "name": "Er. Himanshu Dwivedi Portfolio",
-          "mainEntity": {
-            "@id": "https://himanshudwivedi0325-design.github.io/er-himanshu-portfolio/#person"
-          }
-        },
-        {
-          "@type": "Person",
-          "@id": "https://himanshudwivedi0325-design.github.io/er-himanshu-portfolio/#person",
-          "name": "Er. Himanshu Dwivedi",
-          "alternateName": [
-            "Himanshu Dwivedi",
-            "Engineer Himanshu Dwivedi",
-            "Er Himanshu",
-            "HD"
-          ],
-          "jobTitle": "Full Stack Developer & Software Engineer",
-          "disambiguatingDescription": "Er. Himanshu Dwivedi is an Indian computer science engineering student and full-stack developer based in Gonda, Uttar Pradesh. He is the creator of the HDTalk real-time communication platform, founder of PrepWithHD, and developer of Progress Typing Test.",
-          "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Gonda",
-            "addressRegion": "Uttar Pradesh",
-            "addressCountry": "IN"
-          },
-          "description": "Er. Himanshu Dwivedi specializes in real-time communication systems, WebSockets, PHP, MySQL, JavaScript, and responsive UI engineering.",
-          "url": "https://himanshudwivedi0325-design.github.io/er-himanshu-portfolio/",
-          "image": "https://himanshudwivedi0325-design.github.io/er-himanshu-portfolio/assets/himanshu.jpg",
-          "sameAs": [
-            "https://www.linkedin.com/in/himanshu-webdev",
-            "https://github.com/",
-            "https://www.instagram.com/himanshu__dwivedi_214"
-          ],
-          "alumniOf": {
-            "@type": "EducationalOrganization",
-            "name": "Diploma in Computer Science Engineering (2024 - 2027)"
-          },
-          "knowsAbout": [
-            "Full Stack Web Development",
-            "PHP & MySQL",
-            "Database Systems",
-            "PrepWithHD",
-            "Progress Typing Test",
-            "Responsive Web Architecture"
-          ]
-        }
-      ]
-    }
-    </script>
-
-    <!-- Google Fonts Preload & Optimization -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Outfit:wght@400;600;700;800;900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <noscript>
-      <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
-    </noscript>
-
-    <!-- Stylesheet -->
-    <link rel="stylesheet" href="assets/style.css?v=2.0" />
-
-    <!-- Google Analytics (GA4) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-XXXXXXXXXX');
-    </script>
-
-    <!-- Microsoft Clarity -->
-    <script type="text/javascript">
-      (function(c,l,a,r,i,t,y){
-          c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-          t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-          y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-      })(window,document,"clarity","script","XXXXXXXXXX");
-    </script>
-
-    <!-- Structured Data (JSON-LD) -->
-    <script type="application/ld+json">
-      [
-        {
-          "@context": "https://schema.org",
-          "@type": "Person",
-          "@id": "http://himanshuportfolio.site.je/#person",
-          "name": "Himanshu Dwivedi",
-          "alternateName": "Himanshu Dwivedi Portfolio",
-          "jobTitle": "Full Stack Developer",
-          "url": "http://himanshuportfolio.site.je/",
-          "image": "http://himanshuportfolio.site.je/assets/himanshu.jpg",
-          "sameAs": [
-            "https://github.com/himanshudwivedi0325-design",
-            "https://www.linkedin.com/in/himanshu-webdev",
-            "https://www.instagram.com/himanshu__dwivedi_214"
-          ],
-          "knowsAbout": ["Full Stack Development", "PHP", "MySQL", "Bootstrap", "HTML", "CSS", "JavaScript", "ADCA", "CCC", "Bilingual Typing"],
-          "alumniOf": {
-            "@type": "EducationalOrganization",
-            "name": "Diploma in Computer Science Engineering Board"
-          }
-        },
-        {
-          "@context": "https://schema.org",
-          "@type": "WebSite",
-          "@id": "http://himanshuportfolio.site.je/#website",
-          "url": "http://himanshuportfolio.site.je/",
-          "name": "Himanshu Dwivedi | Portfolio",
-          "description": "Premium portfolio of Himanshu Dwivedi — Full Stack Developer & CSE Student",
-          "publisher": {
-            "@id": "http://himanshuportfolio.site.je/#person"
-          }
-        },
-        {
-          "@context": "https://schema.org",
-          "@type": "Organization",
-          "@id": "http://himanshuportfolio.site.je/#organization",
-          "name": "PrepWithHD",
-          "url": "http://himanshuportfolio.site.je/prepwithhd",
-          "logo": "http://himanshuportfolio.site.je/assets/himanshu.jpg",
-          "founder": {
-            "@id": "http://himanshuportfolio.site.je/#person"
-          },
-          "foundingDate": "2026",
-          "description": "A centralized student portal for sharing academic notes and roadmaps."
-        }
-      ]
-    </script>
+    <!-- Favicons & App Icons -->
+    <link rel="icon" type="image/x-icon" href="https://himanshudwivedi0325-design.github.io/er-himanshu-portfolio/favicon.ico" />
+    <link rel="shortcut icon" href="https://himanshudwivedi0325-design.github.io/er-himanshu-portfolio/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="48x48" href="https://himanshudwivedi0325-design.github.io/er-himanshu-portfolio/assets/favicon-48x48.png" />
+    <link rel="icon" type="image/png" sizes="96x96" href="https://himanshudwivedi0325-design.github.io/er-himanshu-portfolio/assets/favicon-96x96.png" />
+    <link rel="icon" type="image/png" sizes="192x192" href="https://himanshudwivedi0325-design.github.io/er-himanshu-portfolio/assets/favicon-192x192.png" />
+    <link rel="icon" type="image/svg+xml" href="https://himanshudwivedi0325-design.github.io/er-himanshu-portfolio/assets/favicon.svg" />
+    <link rel="apple-touch-icon" sizes="180x180" href="https://himanshudwivedi0325-design.github.io/er-himanshu-portfolio/assets/apple-touch-icon.png" />
+    <link rel="manifest" href="https://himanshudwivedi0325-design.github.io/er-himanshu-portfolio/site.webmanifest" />
   </head>
 
   <body class="no-scroll">

@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <url>
         <loc>https://himanshudwivedi0325-design.github.io/er-himanshu-portfolio/</loc>
-        <lastmod>2026-09-22</lastmod>
-        <changefreq>weekly</changefreq>
+        <lastmod>2026-09-23</lastmod>
+        <changefreq>daily</changefreq>
         <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://himanshudwivedi0325-design.github.io/er-himanshu-portfolio/assets/himanshu.jpg</image:loc>
+            <image:title>Er. Himanshu Dwivedi - Full Stack Developer &amp; Software Engineer</image:title>
+            <image:caption>Er. Himanshu Dwivedi official portrait</image:caption>
+        </image:image>
     </url>
 </urlset>
