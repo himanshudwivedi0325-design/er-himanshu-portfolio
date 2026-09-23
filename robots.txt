@@ -4,7 +4,23 @@ Disallow: /admin/
 Disallow: /config/
 Disallow: /includes/
 
-# AI Crawlers explicit allowance for Generative Engine Optimization (GEO)
+# Microsoft Bing & Copilot Crawler
+User-agent: Bingbot
+Allow: /
+
+# Brave Browser & Search Crawler
+User-agent: Bravebot
+Allow: /
+
+# DuckDuckGo Crawler
+User-agent: DuckDuckBot
+Allow: /
+
+# Yahoo Crawler
+User-agent: Slurp
+Allow: /
+
+# AI Crawlers for Generative Engine Optimization (GEO)
 User-agent: GPTBot
 Allow: /
 
