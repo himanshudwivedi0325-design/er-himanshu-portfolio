@@ -495,7 +495,7 @@ require_once 'includes/header.php';
                 <p>📧 himanshudwivedi0325@gmail.com</p>
                 <p>📍 Uttar Pradesh, India</p>
                 <p>🔗 github.com/himanshudwivedi</p>
-                <p>🔗 linkedin.com/in/himanshu-webdev</p>
+                <p>🔗 linkedin.com/in/er-himanshu-dwivedi</p>
               </div>
             </div>
 

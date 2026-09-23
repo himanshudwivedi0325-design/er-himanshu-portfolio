@@ -115,7 +115,7 @@ contact_text = (
     '<b>Email:</b> <a href="mailto:himanshudwivedi0325@gmail.com"><font color="#1d4ed8">himanshudwivedi0325@gmail.com</font></a> &nbsp;|&nbsp; '
     '<b>Portfolio:</b> <a href="https://himanshudwivedi0325-design.github.io/er-himanshu-portfolio/"><font color="#1d4ed8">himanshudwivedi-portfolio</font></a><br/>'
     '<b>GitHub:</b> <a href="https://github.com/himanshudwivedi0325-design"><font color="#1d4ed8">github.com/himanshudwivedi0325-design</font></a> &nbsp;|&nbsp; '
-    '<b>LinkedIn:</b> <a href="https://www.linkedin.com/in/himanshu-webdev"><font color="#1d4ed8">linkedin.com/in/himanshu-webdev</font></a>'
+    '<b>LinkedIn:</b> <a href="https://www.linkedin.com/in/er-himanshu-dwivedi"><font color="#1d4ed8">linkedin.com/in/er-himanshu-dwivedi</font></a>'
 )
 story.append(Paragraph(contact_text, contact_style))
 story.append(Spacer(1, 4))
