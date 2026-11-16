@@ -10,11 +10,11 @@
     <!-- Meta Tags -->
     <meta
       name="description"
-      content="Who is Er. Himanshu Dwivedi? He is an Indian Full Stack Developer and Diploma in Computer Science Engineering student (2024–2027) based in Gonda, Uttar Pradesh. Creator of HDTalk real-time communication platform, founder of PrepWithHD, and builder of Progress Typing Test."
+      content="Who is Er. Himanshu Dwivedi? He is an Indian Full Stack Developer and Diploma in Computer Science Engineering student (2024–2027) based in Gonda, Uttar Pradesh. Creator of HDTalk, lead developer of Progress Computer Institute portal, founder of PrepWithHD, and builder of Progress Typing Test."
     />
     <meta
       name="keywords"
-      content="Er. Himanshu Dwivedi, Er Himanshu Dwivedi, Himanshu Dwivedi, who is himanshu dwivedi, engineer himanshu dwivedi, Er Himanshu Gonda, HDTalk, HDTalk creator, hdtalk.onrender.com, PrepWithHD founder, Full Stack Developer Gonda Uttar Pradesh"
+      content="Er. Himanshu Dwivedi, Er Himanshu Dwivedi, Himanshu Dwivedi, who is himanshu dwivedi, engineer himanshu dwivedi, Er Himanshu Gonda, HDTalk, HDTalk creator, hdtalk.onrender.com, Progress Computer Institute, progresscomputerinstitute.gt.tc, PrepWithHD founder, Full Stack Developer Gonda Uttar Pradesh"
     />
     <meta name="author" content="Er. Himanshu Dwivedi" />
     <meta name="robots" content="index, follow" />
@@ -26,7 +26,7 @@
     <meta property="og:title" content="Er. Himanshu Dwivedi | Full Stack Developer & Engineer" />
     <meta
       property="og:description"
-      content="Official profile and portfolio of Er. Himanshu Dwivedi based in Gonda, Uttar Pradesh. Creator of HDTalk, builder of PrepWithHD."
+      content="Official profile and portfolio of Er. Himanshu Dwivedi based in Gonda, Uttar Pradesh. Creator of HDTalk, lead developer of Progress Computer Institute portal, founder of PrepWithHD."
     />
     <meta property="og:image" content="https://himanshudwivedi0325-design.github.io/er-himanshu-portfolio/assets/himanshu.jpg" />
     <meta property="og:url" content="https://himanshudwivedi0325-design.github.io/er-himanshu-portfolio/" />
@@ -39,7 +39,7 @@
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Er. Himanshu Dwivedi | Full Stack Developer & Engineer" />
-    <meta name="twitter:description" content="Official profile and portfolio of Er. Himanshu Dwivedi based in Gonda, Uttar Pradesh. Creator of HDTalk, builder of PrepWithHD." />
+    <meta name="twitter:description" content="Official profile and portfolio of Er. Himanshu Dwivedi based in Gonda, Uttar Pradesh. Creator of HDTalk, developer of Progress Computer Institute portal, founder of PrepWithHD." />
     <meta name="twitter:image" content="https://himanshudwivedi0325-design.github.io/er-himanshu-portfolio/assets/himanshu.jpg" />
 
     <!-- Favicons & App Icons -->

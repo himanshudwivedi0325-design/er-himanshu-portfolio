@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Full Stack Web Developer &bull; Computer Science Engineering Student (2024?2027) &bull; Gonda, Uttar Pradesh, India</b>
+  <b>Full Stack Web Developer &bull; Computer Science Engineering Student (2024–2027) &bull; Gonda, Uttar Pradesh, India</b>
 </p>
 
 <p align="center">
@@ -17,39 +17,44 @@
 
 ---
 
-## ?? Executive Summary
+## ⚡ Executive Summary
 
-**Er. Himanshu Dwivedi** is an Indian Full Stack Web Developer and Computer Science Engineering diploma student (2024?2027) based in **Gonda, Uttar Pradesh, India**. He specializes in engineering high-performance web systems, real-time WebSocket communication architectures, dynamic MySQL database design, and modern responsive user interfaces.
+**Er. Himanshu Dwivedi** is an Indian Full Stack Web Developer and Computer Science Engineering diploma student (2024–2027) based in **Gonda, Uttar Pradesh, India**. He specializes in engineering high-performance web systems, real-time WebSocket communication architectures, dynamic MySQL database design, and modern responsive user interfaces.
 
-He is the creator of the **HDTalk** real-time communication platform, the founder of the **PrepWithHD** student academic portal, and the developer of the **Progress Typing Test** bilingual evaluation tool.
+He is the creator of the **HDTalk** real-time communication platform, the lead developer of the **Progress Computer Institute** portal, the founder of the **PrepWithHD** student academic portal, and the builder of the **Progress Typing Test** bilingual evaluation tool.
 
 ---
 
-## ?? Flagship Software Projects
+## 🚀 Flagship Software Projects
 
-### 1. [HDTalk ? Real-Time Communication Platform](https://hdtalk.onrender.com)
+### 1. [HDTalk – Real-Time Communication Platform](https://hdtalk.onrender.com)
 * **Live Application**: [hdtalk.onrender.com](https://hdtalk.onrender.com)
-* **Architecture**: Real-time duplex communication platform utilizing **WebSockets** and **WebRTC** for zero-latency peer messaging and multimedia transmission.
+* **Architecture**: Real-time duplex communication platform utilizing **WebSockets** and **WebRTC** for zero-latency peer messaging and multimedia streaming.
 * **Key Features**: Event-driven connection handlers, persistent bi-directional streaming, low-latency session management, and a modern responsive dark-theme user experience.
 
-### 2. PrepWithHD ? Academic Resource Portal
+### 2. [Progress Computer Institute Portal](https://progresscomputerinstitute.gt.tc)
+* **Live Portal**: [progresscomputerinstitute.gt.tc](https://progresscomputerinstitute.gt.tc)
+* **Architecture**: Institutional administrative and student portal built with **PHP, MySQL, HTML5, CSS3, and JavaScript**.
+* **Key Features**: Course catalogs, student registration inquiries, institutional branding, and responsive web interface.
+
+### 3. PrepWithHD – Academic Resource Portal
 * **Domain**: Computer Science Engineering Student Platform
 * **Tech Stack**: **PHP, MySQL, Bootstrap 5**
 * **Key Features**: Centralized academic portal providing structured semester roadmaps, syllabus notes, secure document uploads, and optimized relational MySQL queries.
 
-### 3. Progress Typing Test ? Bilingual Typing Evaluation Tool
+### 4. Progress Typing Test – Bilingual Typing Evaluation Tool
 * **Domain**: Performance & Speed Diagnostics
 * **Tech Stack**: **JavaScript (ES6+), HTML5, CSS3**
 * **Key Features**: Interactive web tool measuring dynamic Words Per Minute (WPM), net accuracy, and error tracking supporting dual Hindi (Kruti Dev / Mangal) and English scripts.
 
-### 4. [Official Engineer Portfolio](https://himanshudwivedi0325-design.github.io/er-himanshu-portfolio/)
+### 5. [Official Engineer Portfolio](https://himanshudwivedi0325-design.github.io/er-himanshu-portfolio/)
 * **Live Site**: [himanshudwivedi0325-design.github.io/er-himanshu-portfolio/](https://himanshudwivedi0325-design.github.io/er-himanshu-portfolio/)
 * **Tech Stack**: Zero-dependency HTML5, CSS3, JavaScript, JSON-LD Schema.org Knowledge Graph integration.
-* **Features**: Ranked #1 on Google Search, downloadable 1-page executive CV, custom micro-interactions, glowing cursor tracking, and mobile-responsive layout.
+* **Features**: Ranked on Google Search, downloadable 1-page executive CV, custom micro-interactions, glowing cursor tracking, and mobile-responsive layout.
 
 ---
 
-## ?? Technical Skills & Core Competencies
+## 💻 Technical Skills & Core Competencies
 
 | Category | Technologies & Tools |
 | :--- | :--- |
@@ -62,12 +67,12 @@ He is the creator of the **HDTalk** real-time communication platform, the founde
 
 ---
 
-## ?? Academic Credentials & Certifications
+## 🎓 Academic Credentials & Certifications
 
-* **Diploma in Computer Science Engineering (CSE)** (2024 ? 2027)  
+* **Diploma in Computer Science Engineering (CSE)** (2024–2027)  
   *Board of Technical Education Uttar Pradesh (BTEUP)*  
   *Core Studies*: Data Structures, Database Systems (RDBMS), Operating Systems, Web Technologies.
-* **Advance Diploma in Computer Applications (ADCA)** (2023 ? 2024)  
+* **Advance Diploma in Computer Applications (ADCA)** (2023–2024)  
   *1-Year Certification* covering office automation, database operations, and IT systems.
 * **Course on Computer Concepts (CCC)** (2023)  
   *NIELIT (National Institute of Electronics & Information Technology, Govt. of India)*.
@@ -75,17 +80,18 @@ He is the creator of the **HDTalk** real-time communication platform, the founde
 
 ---
 
-## ?? Entity & Knowledge Graph Verification
+## 🌐 Entity & Knowledge Graph Verification
 
 | Attribute | Verified Value |
 | :--- | :--- |
 | **Legal / Professional Name** | Er. Himanshu Dwivedi |
-| **Alternate Names** | Himanshu Dwivedi, Engineer Himanshu Dwivedi, Er Himanshu |
+| **Alternate Names** | Himanshu Dwivedi, Engineer Himanshu Dwivedi, Er Himanshu, HD |
 | **Primary Role** | Full Stack Web Developer & Software Engineer |
 | **Location** | Gonda, Uttar Pradesh, India |
 | **Official Website** | https://himanshudwivedi0325-design.github.io/er-himanshu-portfolio/ |
 | **Official LinkedIn** | https://www.linkedin.com/in/er-himanshu-dwivedi |
 | **Official GitHub** | https://github.com/himanshudwivedi0325-design |
+| **Institutional Project** | https://progresscomputerinstitute.gt.tc |
 | **Flagship App** | https://hdtalk.onrender.com |
 | **Contact Email** | himanshudwivedi0325@gmail.com |
 

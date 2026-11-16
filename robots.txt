@@ -20,8 +20,14 @@ Allow: /
 User-agent: Slurp
 Allow: /
 
-# AI Crawlers for Generative Engine Optimization (GEO)
+# AI & Generative Engine Optimization (GEO / AEO) Crawlers
 User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
 Allow: /
 
 User-agent: Google-Extended
@@ -33,4 +39,21 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+# Sitemaps & LLM Context
 Sitemap: https://himanshudwivedi0325-design.github.io/er-himanshu-portfolio/sitemap.xml
+# LLMs Context: https://himanshudwivedi0325-design.github.io/er-himanshu-portfolio/llms.txt
