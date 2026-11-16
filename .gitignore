@@ -12,3 +12,6 @@ remote_*.txt
 brevo_log*.txt
 uploads/brevo_log.txt
 .vscode/
+
+__pycache__/
+*.pyc
