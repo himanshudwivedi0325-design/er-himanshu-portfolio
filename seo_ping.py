@@ -23,7 +23,7 @@ def update_sitemap_date():
 def ping_indexnow():
     host = "himanshudwivedi0325-design.github.io"
     key = "07843a91c23d259511b457a6eb89b7cc"
-    key_location = f"https://{host}/{key}.txt"
+    key_location = f"https://{host}/er-himanshu-portfolio/{key}.txt"
     url_list = [
         f"https://{host}/er-himanshu-portfolio/",
         f"https://{host}/er-himanshu-portfolio/sitemap.xml",
