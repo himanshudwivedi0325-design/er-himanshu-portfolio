@@ -18,7 +18,7 @@
             </a>
             <p class="brand-desc">Diploma in Computer Science Engineering student. Passionate about backend development, database systems, and building responsive web tools.</p>
             <div class="footer-socials" aria-label="Footer social links">
-              <a class="footer-social-icon" href="https://github.com/" target="_blank" rel="noopener noreferrer" aria-label="GitHub Profile (opens in new tab)">
+              <a class="footer-social-icon" href="https://github.com/himanshudwivedi0325-design" target="_blank" rel="noopener noreferrer" aria-label="GitHub Profile (opens in new tab)">
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 .5A12 12 0 0 0 8.2 23.9c.6.1.82-.26.82-.58v-2.04c-3.34.73-4.04-1.42-4.04-1.42-.55-1.38-1.34-1.75-1.34-1.75-1.08-.74.09-.72.09-.72 1.2.08 1.84 1.24 1.84 1.24 1.08 1.83 2.82 1.3 3.5.99.12-.78.42-1.3.76-1.6-2.66-.3-5.46-1.34-5.46-5.94 0-1.3.47-2.38 1.24-3.22-.12-.3-.54-1.52.12-3.18 0 0 1-.32 3.3 1.23A11.4 11.4 0 0 1 12 5.32c1.02 0 2.04.14 3 .41 2.3-1.55 3.3-1.23 3.3-1.23.66 1.66.24 2.88.12 3.18.77.84 1.24 1.92 1.24 3.22 0 4.62-2.8 5.63-5.48 5.93.43.37.82 1.1.82 2.23v3.3c0 .32.22.7.83.58A12 12 0 0 0 12 .5Z"/></svg>
               </a>
               <a class="footer-social-icon" href="https://www.linkedin.com/in/er-himanshu-dwivedi" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn Profile (opens in new tab)">
