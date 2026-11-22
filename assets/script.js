@@ -123,6 +123,53 @@ document.addEventListener('DOMContentLoaded', () => {
   }, { passive: true });
 
   // ==========================================
+  // 4.1 Theme Switcher (Gold / Emerald / Cyan)
+  // ==========================================
+  const themes = [
+    { id: 'gold', name: 'Gold' },
+    { id: 'emerald', name: 'Emerald' },
+    { id: 'cyan', name: 'Cyan' }
+  ];
+
+  let savedTheme = 'gold';
+  try {
+    savedTheme = localStorage.getItem('hd_portfolio_theme') || 'gold';
+  } catch (e) {}
+
+  let currentThemeIdx = themes.findIndex(t => t.id === savedTheme);
+  if (currentThemeIdx === -1) currentThemeIdx = 0;
+
+  function setPortfolioTheme(themeObj, save = true) {
+    document.documentElement.setAttribute('data-theme', themeObj.id);
+    const themeNameSpan = document.querySelector('.theme-toggle-btn .theme-name');
+    if (themeNameSpan) {
+      themeNameSpan.textContent = themeObj.name;
+    }
+    if (save) {
+      try {
+        localStorage.setItem('hd_portfolio_theme', themeObj.id);
+      } catch (e) {}
+    }
+  }
+
+  // Sync button text on load
+  setPortfolioTheme(themes[currentThemeIdx], false);
+
+  const themeToggleBtn = document.getElementById('themeToggleBtn');
+  if (themeToggleBtn) {
+    themeToggleBtn.addEventListener('click', () => {
+      currentThemeIdx = (currentThemeIdx + 1) % themes.length;
+      setPortfolioTheme(themes[currentThemeIdx], true);
+
+      // Micro bounce effect
+      themeToggleBtn.style.transform = 'scale(0.92)';
+      setTimeout(() => {
+        themeToggleBtn.style.transform = '';
+      }, 150);
+    });
+  }
+
+  // ==========================================
   // 5. Mobile Menu Toggle & Navigation Links
   // ==========================================
   const menuBtn = document.getElementById('menuBtn');

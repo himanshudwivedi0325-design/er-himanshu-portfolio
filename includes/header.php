@@ -106,6 +106,11 @@
               <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M4.98 3.5C4.98 4.88 3.86 6 2.5 6S.02 4.88.02 3.5 1.14 1 2.5 1s2.48 1.12 2.48 2.5ZM.3 8h4.4v14H.3V8Zm7.1 0h4.22v1.92h.06c.58-1.1 2.02-2.26 4.16-2.26 4.46 0 5.28 2.94 5.28 6.76V22h-4.4v-6.72c0-1.6-.03-3.66-2.24-3.66-2.24 0-2.58 1.75-2.58 3.55V22H7.4V8Z"/></svg>
             </a>
           </div>
+          <!-- Theme Switcher Toggle -->
+          <button id="themeToggleBtn" class="theme-toggle-btn" aria-label="Toggle Color Theme" title="Switch Theme: Gold / Emerald / Cyan">
+            <span class="theme-dot" aria-hidden="true"></span>
+            <span class="theme-name">Gold</span>
+          </button>
           <a class="btn btn-primary nav-cta" href="#contact">Contact Me</a>
           <button class="menu-btn" id="menuBtn" aria-label="Toggle menu" aria-expanded="false" aria-controls="navLinks">
             <span></span><span></span><span></span>
